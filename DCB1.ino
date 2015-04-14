@@ -1,6 +1,4 @@
 #include "IRremote.h"
-#include "EEPROM.h"
-#include "EEPROManything.h"
 #include "MotorPot.h"
 #include "Helper.h"
 
