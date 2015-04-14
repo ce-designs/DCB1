@@ -1,0 +1,13 @@
+*.atsln
+*.atsuo
+*.cppproj
+Visual Micro/
+Debug/core.a
+Debug/SabreCE.hex
+Debug/SabreCE.elf
+Debug/SabreCE.eep
+*.eep
+*.elf
+*.hex
+*.mk
+Debug/
